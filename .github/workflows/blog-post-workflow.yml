@@ -1,7 +1,7 @@
 name: Ultimas publicações do blog
 on:
     schedule:
-        - cron: "0 18 * * 3"
+        - cron: "0 22 * * 3"
 jobs:
     update-readme-with-blog:
         name: Update this repo's README with latest blog posts
@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                   max_post_count: "6"
-                  feed_list: "https://codigoninja.dev/sitemap-1.xml"
+                  feed_list: "https://codigoninja.dev/feed_rss_created.xml"
