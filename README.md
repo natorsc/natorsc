@@ -25,12 +25,12 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python e GTK 3: Como criar o ambiente de desenvolvimento (PyGObject)](https://codigoninja.dev/gtk/gtk-3-como-criar-ambiente-desenvolvimento-pygobject/)
+- [Python e GTK 4: Como criar o ambiente de desenvolvimento (PyGObject)](https://codigoninja.dev/gtk/gtk-4-como-criar-ambiente-desenvolvimento-pygobject/)
 - [Python e QT 6: Formas de configurar o tema Material do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-material/)
 - [Python e QT 6: Formas de configurar o tema Universal do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-universal/)
 - [Como instalar a ferramenta msys2 no Microsoft Windows](https://codigoninja.dev/windows/como-instalar-ferramenta-msys2-microsoft-windows/)
-- [Como hospedar um projeto feito com o framework web Django (cPanel)](https://codigoninja.dev/cpanel/como-hospedar-projeto-framework-web-django-cpanel/)
-- [Como instalar o Gnome Glade no Linux e Microsoft Windows](https://codigoninja.dev/gtk/como-instalar-gnome-glade-linux-microsoft-windows/)
-- [Como instalar o IDE GNOME Builder no Linux](https://codigoninja.dev/gtk/como-instalar-ide-gnome-builder-linux/)
+- [cPanel: Como hospedar um projeto feito com o framework web Django](https://codigoninja.dev/cpanel/como-hospedar-projeto-framework-web-django-cpanel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
