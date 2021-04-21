@@ -25,12 +25,12 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python e QT 6: Formas de configurar o tema Fusion do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-fusion/)
+- [Python e QT 6: Formas de configurar o tema Imagine do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-imagine/)
+- [Python e Qt6: Como instalar o binding PySide6](https://codigoninja.dev/qt/pyside6-qt-6-como-instalar-binding/)
 - [Python e GTK 3: Como criar o ambiente de desenvolvimento (PyGObject)](https://codigoninja.dev/gtk/gtk-3-como-criar-ambiente-desenvolvimento-pygobject/)
 - [Python e GTK 4: Como criar o ambiente de desenvolvimento (PyGObject)](https://codigoninja.dev/gtk/gtk-4-como-criar-ambiente-desenvolvimento-pygobject/)
 - [Python e QT 6: Formas de configurar o tema Material do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-material/)
-- [Python e QT 6: Formas de configurar o tema Universal do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-universal/)
-- [Como instalar a ferramenta msys2 no Microsoft Windows](https://codigoninja.dev/windows/como-instalar-ferramenta-msys2-microsoft-windows/)
-- [cPanel: Como hospedar um projeto feito com o framework web Django](https://codigoninja.dev/cpanel/como-hospedar-projeto-framework-web-django-cpanel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
