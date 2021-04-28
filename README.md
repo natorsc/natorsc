@@ -25,12 +25,12 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Python e QT 6: Formas de configurar o tema Fusion do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-fusion/)
-- [Python e QT 6: Formas de configurar o tema Imagine do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-imagine/)
-- [Python e Qt6: Como instalar o binding PySide6](https://codigoninja.dev/qt/pyside6-qt-6-como-instalar-binding/)
-- [Python e GTK 3: Como criar o ambiente de desenvolvimento (PyGObject)](https://codigoninja.dev/gtk/gtk-3-como-criar-ambiente-desenvolvimento-pygobject/)
-- [Python e GTK 4: Como criar o ambiente de desenvolvimento (PyGObject)](https://codigoninja.dev/gtk/gtk-4-como-criar-ambiente-desenvolvimento-pygobject/)
-- [Python e QT 6: Formas de configurar o tema Material do QML](https://codigoninja.dev/qt/pyside6-qt-6-qml-tema-material/)
+- [Principais comandos do gerenciador de dependências e empacotador Poetry](https://codigoninja.dev/python/principais-comandos-gerenciador-dependencias-empacotador-poetry/)
+- [Python e GTK 3: Como utilizar um arquivo de interface do Gnome Builder](https://codigoninja.dev/gtk/pygobject-gtk-3-como-utilizar-arquivo-interface-gnome-builder/)
+- [Python e GTK 3: Como utilizar um arquivo de interface do Gnome Glade](https://codigoninja.dev/gtk/pygobject-gtk-3-como-utilizar-arquivo-interface-gnome-glade/)
+- [Python e Qt 6: Como utilizar um arquivo de interface QML com QQmlApplicationEngine()](https://codigoninja.dev/qt/pyside6-qt-6-qml-como-utilizar-arquivo-interface-qqmlapplicationengine/)
+- [Python e Qt 6: Como utilizar um arquivo de interface QML com QQuickView()](https://codigoninja.dev/qt/pyside6-qt-6-qml-como-utilizar-arquivo-interface-qquickview/)
+- [Python e Qt 6: Como utilizar um arquivo de interface XML com loadUiType()](https://codigoninja.dev/qt/pyside6-qt-6-xml-como-utilizar-arquivo-interface-loaduitype/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
