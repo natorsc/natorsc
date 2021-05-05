@@ -25,12 +25,12 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Principais comandos do gerenciador de dependências e empacotador Poetry](https://codigoninja.dev/python/principais-comandos-gerenciador-dependencias-empacotador-poetry/)
-- [Python e GTK 3: Como utilizar um arquivo de interface do Gnome Builder](https://codigoninja.dev/gtk/pygobject-gtk-3-como-utilizar-arquivo-interface-gnome-builder/)
-- [Python e GTK 3: Como utilizar um arquivo de interface do Gnome Glade](https://codigoninja.dev/gtk/pygobject-gtk-3-como-utilizar-arquivo-interface-gnome-glade/)
-- [Python e Qt 6: Como utilizar um arquivo de interface QML com QQmlApplicationEngine()](https://codigoninja.dev/qt/pyside6-qt-6-qml-como-utilizar-arquivo-interface-qqmlapplicationengine/)
-- [Python e Qt 6: Como utilizar um arquivo de interface QML com QQuickView()](https://codigoninja.dev/qt/pyside6-qt-6-qml-como-utilizar-arquivo-interface-qquickview/)
-- [Python e Qt 6: Como utilizar um arquivo de interface XML com loadUiType()](https://codigoninja.dev/qt/pyside6-qt-6-xml-como-utilizar-arquivo-interface-loaduitype/)
+- [Python e GTK 3: PyGObject Gtk.CssProvider()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-style-css-provider/)
+- [Python e GTK 3: PyGObject dark mode com settings.set_property()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-style-dark-mode-application-prefer-dark-theme/)
+- [Python e GTK 3: PyGObject Gtk.FlowBox()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-flowbox/)
+- [Python e GTK 3: PyGObject Gtk.Grid()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-grid/)
+- [Python e GTK 3: PyGObject Gtk.HeaderBar()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-headerbar/)
+- [Python e GTK 3: PyGObject Gtk.Image()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
