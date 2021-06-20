@@ -16,7 +16,7 @@
 GTK](https://github.com/natorsc/gui-python-gtk).
 - 🌱 Atualmente estou aprendendo [Django](https://www.djangoproject.com/) e
 [Flask](https://flask.palletsprojects.com/en/1.1.x/).
-- 📝 Eu regularmente escrevo artigos no site: [https://codigoninja.dev/](https://codigoninja.dev/).
+- 📝 Eu regularmente escrevo posts no blog: [https://blog.codigoninja.dev/](https://blog.codigoninja.dev/).
 
 ---
 
@@ -25,12 +25,7 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Python e GTK 3: PyGObject Gtk.CssProvider()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-style-css-provider/)
-- [Python e GTK 3: PyGObject dark mode com settings.set_property()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-style-dark-mode-application-prefer-dark-theme/)
-- [Python e GTK 3: PyGObject Gtk.FlowBox()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-flowbox/)
-- [Python e GTK 3: PyGObject Gtk.Grid()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-grid/)
-- [Python e GTK 3: PyGObject Gtk.HeaderBar()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-headerbar/)
-- [Python e GTK 3: PyGObject Gtk.Image()](https://codigoninja.dev/codigo/gtk/python-pygobject-gtk-3-image/)
+Será atualizado quarta feira 26/06/2021.
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -39,9 +34,7 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 
 <br>
 
-[Perfil público](https://abrir.link/u/natorsc).
-
-![Perfil Público](./images/icons/profile-builder.png)
+[LinkedIn](https://www.linkedin.com/in/natorsc/).
 
 ---
 
