@@ -25,7 +25,12 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-Será atualizado quarta feira 26/06/2021.
+- [Python e GTK 4: Como criar o ambiente de desenvolvimento (PyGObject)](https://blog.codigoninja.dev/python-e-gtk-4-como-criar-o-ambiente-de-desenvolvimento-pygobject)
+- [Python e GTK 3: Como criar o ambiente de desenvolvimento (PyGObject)](https://blog.codigoninja.dev/python-e-gtk-3-como-criar-o-ambiente-de-desenvolvimento-pygobject)
+- [Como ativar a ferramenta de depuração interativa GTK Inspector](https://blog.codigoninja.dev/como-ativar-a-ferramenta-de-depuracao-interativa-gtk-inspector)
+- [Como instalar o aplicativo GTK 4 icon browser](https://blog.codigoninja.dev/como-instalar-o-aplicativo-gtk-4-icon-browser)
+- [Como instalar o aplicativo GTK 3 icon browser](https://blog.codigoninja.dev/como-instalar-o-aplicativo-gtk-3-icon-browser)
+- [Como instalar a ferramenta Gnome Glade no Linux e Microsoft Windows](https://blog.codigoninja.dev/como-instalar-a-ferramenta-gnome-glade-no-linux-e-microsoft-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
