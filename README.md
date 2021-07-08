@@ -25,12 +25,12 @@ GTK](https://github.com/natorsc/gui-python-gtk).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Vlang: Como instalar a linguagem de programação V no Linux (via Git)](https://blog.codigoninja.dev/vlang-como-instalar-a-linguagem-de-programacao-v-no-linux-via-git)
+- [Como instalar aplicativos Linux no Chrome OS (Chromebook)](https://blog.codigoninja.dev/como-instalar-aplicativos-linux-no-chrome-os-chromebook)
+- [Como instalar a linguagem de programação Python](https://blog.codigoninja.dev/como-instalar-a-linguagem-de-programacao-python)
 - [Python e Qt 6: Como instalar o IDE Qt Creator](https://blog.codigoninja.dev/python-e-qt-6-como-instalar-o-ide-qt-creator)
 - [Python e Qt 6: Como instalar a ferramenta Qt Designer](https://blog.codigoninja.dev/python-e-qt-6-como-instalar-a-ferramenta-qt-designer)
 - [Python e GTK 4: Como criar o ambiente de desenvolvimento (PyGObject)](https://blog.codigoninja.dev/python-e-gtk-4-como-criar-o-ambiente-de-desenvolvimento-pygobject)
-- [Python e GTK 3: Como criar o ambiente de desenvolvimento (PyGObject)](https://blog.codigoninja.dev/python-e-gtk-3-como-criar-o-ambiente-de-desenvolvimento-pygobject)
-- [Como ativar a ferramenta de depuração interativa GTK Inspector](https://blog.codigoninja.dev/como-ativar-a-ferramenta-de-depuracao-interativa-gtk-inspector)
-- [Como instalar o aplicativo GTK 4 icon browser](https://blog.codigoninja.dev/como-instalar-o-aplicativo-gtk-4-icon-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
