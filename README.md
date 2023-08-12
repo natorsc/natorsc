@@ -17,8 +17,8 @@
 
 <br>
 
-[![TabNews](https://img.shields.io/badge/-TabNews-critical?style=for-the-badge&logo=blog&logoColor=white)](https://www.tabnews.com.br/natorsc "Acessar.")&emsp;
-[![E-mail](https://img.shields.io/badge/-E&#8211;mail-blueviolet?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkpcvm6dz@mozmail.com "Enviar e-mail.")&emsp;
+[![Blog](https://img.shields.io/badge/-TabNews-critical?style=for-the-badge&logo=blog&logoColor=white)](https://justcode.com.br/gtk/ "Acessar.")&emsp;
+[![E-mail](https://img.shields.io/badge/-E&#8211;mail-blueviolet?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natorsc@gmail.com "Enviar e-mail.")&emsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natorsc/ "Acessar.")
 
 <br>
