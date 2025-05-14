@@ -17,7 +17,8 @@
 
 <br>
 
-[![Blog](https://img.shields.io/badge/-Blog-critical?style=for-the-badge&logo=blog&logoColor=white)](https://justcode.com.br/ "Acessar.")&emsp;
+[![Blog](https://img.shields.io/badge/-Blog-critical?style=for-the-badge&logo=blog&logoColor=white)](https://justcode.com.br/ "https://justcode.com.br/")&emsp;
+[![Blog](https://img.shields.io/badge/-Blog-darkgreen?style=for-the-badge&logo=blog&logoColor=white)](https://swift.dev.br/ "https://swift.dev.br/")&emsp;
 [![E-mail](https://img.shields.io/badge/-E&#8211;mail-blueviolet?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natorsc@gmail.com "Enviar e-mail.")&emsp;
 
 <br>
